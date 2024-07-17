@@ -1,9 +1,7 @@
 
-<!-- Linked Image -->
-<img src="https://github.com/user-attachments/assets/399b3ff1-cca8-427f-a2f8-28826fa2565a" alt="GitHub Image" width="200" height="400">
 
-<!-- Local Image -->
-<img src="images/profile-pic.jpg" alt="Profile Picture" width="1800" height="400">
+![github3](https://github.com/user-attachments/assets/2a888ed6-d8f2-4e06-b15c-26434247552a)
+
 
 # Hi 👋 I'm Rohit Kumar
 
