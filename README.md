@@ -1,6 +1,4 @@
-
-
-![github3](https://github.com/user-attachments/assets/2a888ed6-d8f2-4e06-b15c-26434247552a)
+<img src="https://github.com/user-attachments/assets/2a888ed6-d8f2-4e06-b15c-26434247552a" alt="GitHub Image" style="width:100%; height:auto;">
 
 
 # Hi 👋 I'm Rohit Kumar
