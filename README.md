@@ -1,5 +1,9 @@
 
-![github4](https://github.com/user-attachments/assets/399b3ff1-cca8-427f-a2f8-28826fa2565a)
+<!-- Linked Image -->
+<img src="https://github.com/user-attachments/assets/399b3ff1-cca8-427f-a2f8-28826fa2565a" alt="GitHub Image" width="200" height="400">
+
+<!-- Local Image -->
+<img src="images/profile-pic.jpg" alt="Profile Picture" width="200" height="400">
 
 
 
