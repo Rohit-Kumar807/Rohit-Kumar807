@@ -5,4 +5,4 @@ I'm a passionate Data Analyst skilled in SQL, Python, Excel, Power BI, and data 
 - 🔭 I’m currently working on data analysis projects that leverage SQL, Python, Excel, and Power BI to transform raw data into actionable insights.
 - 🌱 I’m currently learning advanced data visualization techniques and machine learning.
 - 💬 Ask me about SQL, Python, Excel, Power BI, and data visualization.
-- 📫 How to reach me: [in/ rohit-kumar-a460912b1) | [Email](rsadhu807@gmail.com)
+- 📫 How to reach me rsadhu807@gmail.com
