@@ -10,3 +10,10 @@ I'm a passionate Data Analyst skilled in SQL, Python, Excel, Power BI, and data 
 - 🌱 I’m currently learning advanced data visualization techniques and machine learning.
 - 💬 Ask me about SQL, Python, Excel, Power BI, and data visualization.
 - 📫 How to reach me rsadhu807@gmail.com
+
+🔍 My Toolset
+![download (1)](https://github.com/user-attachments/assets/ba6a0dd0-a89f-4a94-849c-c5bda7bc49f0)
+![images](https://github.com/user-attachments/assets/e3254b72-6338-49f0-a15b-695709bcd31d)
+![download](https://github.com/user-attachments/assets/fa9be8e5-e159-42bc-981f-9b64c7b395d0)
+![download (2)](https://github.com/user-attachments/assets/4a9b555d-eb75-4a00-8ef3-6d0617d4f091)
+![ppt](https://github.com/user-attachments/assets/9e98d89a-9d61-4db2-942c-81297d8621b3)
