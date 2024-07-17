@@ -14,14 +14,15 @@ I'm a passionate Data Analyst skilled in SQL, Python, Excel, Power BI, and data 
 🔍 My Toolset
 
 
-<img src="https://github.com/user-attachments/assets/ba6a0dd0-a89f-4a94-849c-c5bda7bc49f0" alt="Image 1" style="width:20%; height:20%;">
+<img src="https://github.com/user-attachments/assets/ba6a0dd0-a89f-4a94-849c-c5bda7bc49f0" alt="Image 1" style="width:10%; height:10%;">
 
-<img src="https://github.com/user-attachments/assets/e3254b72-6338-49f0-a15b-695709bcd31d" alt="Image 2" style="width:20%; height:20%;">
+<img src="https://github.com/user-attachments/assets/e3254b72-6338-49f0-a15b-695709bcd31d" alt="Image 2" style="width:10%; height:10%;">
 
-<img src="https://github.com/user-attachments/assets/fa9be8e5-e159-42bc-981f-9b64c7b395d0" alt="Image 3" style="width:20%; height:20%;">
+
+<img src="https://github.com/user-attachments/assets/fa9be8e5-e159-42bc-981f-9b64c7b395d0" alt="Image 3" style="width:10%; height:10%;">
 
 <img src="https://github.com/user-attachments/assets/4a9b555d-eb75-4a00-8ef3-6d0617d4f091" alt="Image 4" style="width:20%; height:20%;">
 
-<img src="https://github.com/user-attachments/assets/9e98d89a-9d61-4db2-942c-81297d8621b3" alt="Image 5" style="width:20%; height:20%;">
+<img src="https://github.com/user-attachments/assets/9e98d89a-9d61-4db2-942c-81297d8621b3" alt="Image 5" style="width:10%; height:10%;">
 
 
