@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/2a888ed6-d8f2-4e06-b15c-26434247552a" alt="GitHub Image" style="width:100%; height:auto;">
+<img src="https://github.com/user-attachments/assets/2a888ed6-d8f2-4e06-b15c-26434247552a" alt="GitHub Image" style="width:100%; height:290;">
 
 
 # Hi 👋 I'm Rohit Kumar
